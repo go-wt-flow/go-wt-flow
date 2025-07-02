@@ -1,1 +1,3 @@
-hi there
+📍 **Seoul**, South Korea
+📚 studying **Computer Engineering**
+
