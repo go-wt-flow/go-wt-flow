@@ -1,5 +1,6 @@
 📍 **Seoul**, South Korea  
 📚 studying **Computer Engineering**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=유저이름&theme=dark)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&theme=cobalt&height=300&section=header&text=go-wt-flow%20render&fontSize=90)
+![GitHub Streak](https://streak-stats.demolab.com/?user=go-wt-flow&theme=dark)](https://git.io/streak-stats)
 
