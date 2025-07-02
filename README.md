@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=95c3ff&height=300&section=header&text=go-wt-flow&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=95c3ff&height=100&section=header&text=go-wt-flow&fontColor=ffffff&fontSize=60)
 
 📍 **Seoul**, South Korea  
 📚 studying **Computer Engineering**
