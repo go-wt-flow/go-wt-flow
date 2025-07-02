@@ -1,3 +1,3 @@
-📍 **Seoul**, South Korea
+📍 **Seoul**, South Korea  
 📚 studying **Computer Engineering**
 
